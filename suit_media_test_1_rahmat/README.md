@@ -1,16 +1,29 @@
 # suit_media_test_1_rahmat
 
-A new Flutter project.
+Name : Rahmat Hidayatullah
+Study Program : Informatics Engineering (S1) - 2021
+University : Universitas Negeri Surabaya
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+    - [http](https://pub.dev/packages/http)
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<!-- result with image -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Result of Screen 1
+![Screen 1 - isPalindrome Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-1-isPalindrome_true.jpg "Screen 1 - isPalindrome Function | true")
+
+![Screen 1 - isPalindrome Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-isPalindrome-false.jpg "Screen 1 - isPalindrome Function | false")
+
+Result of Screen 2
+![Screen 2 - resultOfNavigation value](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-selectedUser-null.jpg "Screen 2 - selectedUser value | null")
+
+![Screen 2 - resultOfNavigation value](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-resultOfNavigation-UserModel.jpg "Screen 2 - resultOfNavigation value | UserModel")
+
+Result of Screen 3
+
+![Screen 3 - fetchData Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-3-fetchData-initial.jpg "Screen 3 - fetchData Function | initial")
+
+![Screen 3 - fetchData Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-3-fetchData-onRefresh.jpg "Screen 3 - fetchData Function | onRefresh")
