@@ -1,29 +1,58 @@
 # suit_media_test_1_rahmat
 
-Name : Rahmat Hidayatullah
-Study Program : Informatics Engineering (S1) - 2021
-University : Universitas Negeri Surabaya
+**Name**: Rahmat Hidayatullah  
+**Study Program**: Informatics Engineering (S1) - 2021  
+**University**: Universitas Negeri Surabaya
 
 ## Dependencies
 
-    - [http](https://pub.dev/packages/http)
+- [http](https://pub.dev/packages/http)
 
 ## Result
 
-<!-- result with image -->
+### Result of Screen 1
 
-Result of Screen 1
-![Screen 1 - isPalindrome Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-1-isPalindrome_true.jpg "Screen 1 - isPalindrome Function | true")
+**isPalindrome Function | true**
+<br/>
 
-![Screen 1 - isPalindrome Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-isPalindrome-false.jpg "Screen 1 - isPalindrome Function | false")
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-1-isPalindrome_true.jpg" alt="Screen 1 - isPalindrome Function" width="300" />
+</div>
 
-Result of Screen 2
-![Screen 2 - resultOfNavigation value](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-selectedUser-null.jpg "Screen 2 - selectedUser value | null")
+**isPalindrome Function | false**
+<br/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-isPalindrome-false.jpg" alt="Screen 1 - isPalindrome Function" width="300" />
+</div>
 
-![Screen 2 - resultOfNavigation value](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-resultOfNavigation-UserModel.jpg "Screen 2 - resultOfNavigation value | UserModel")
+### Result of Screen 2
 
-Result of Screen 3
+**selectedUser value | null**
+<br/>
 
-![Screen 3 - fetchData Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-3-fetchData-initial.jpg "Screen 3 - fetchData Function | initial")
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-selectedUser-null.jpg" alt="Screen 2 - resultOfNavigation value" width="300" />
+</div>
 
-![Screen 3 - fetchData Function](https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-3-fetchData-onRefresh.jpg "Screen 3 - fetchData Function | onRefresh")
+**selectedUser value | UserModel**
+<br/>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-2-resultOfNavigation-UserModel.jpg" alt="Screen 2 - resultOfNavigation value" width="300" />
+</div>
+
+### Result of Screen 3
+
+**fetchData Function | initial**
+<br/>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-3-fetchData-initial.jpg" alt="Screen 3 - fetchData Function" width="300" />
+</div>
+
+**fetchData Function | onRefresh**
+
+<br/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/erhahahaa/suit-media-test/blob/main/suit_media_test_1_rahmat/result/screen-3-fetchData-onRefresh.jpg" alt="Screen 3 - fetchData Function" width="300" />
+</div>
